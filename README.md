@@ -3,16 +3,28 @@ A curated list of awesome ID libraries and resources.
 
 Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 
-* [Awesome ID](#awesome-id)
-  * [Generation](#generation)
+* [Generation](#generation)
 
 ## Generation
 
-** JavaScript **
+**JavaScript**
 
 * [uuid](https://github.com/kelektiv/node-uuid) ([npm](https://www.npmjs.com/package/uuid)) - Simple, fast generation of RFC4122 UUIDS.
 * [cuid](https://github.com/ericelliott/cuid) ([npm](https://www.npmjs.com/package/cuid)) - Collision-resistant ids optimized for horizontal scaling and sequential lookup performance.
 * [nanoid](https://github.com/ai/nanoid) ([npm](https://www.npmjs.com/package/nanoid)) - A tiny, secure URL-friendly unique string ID generator for JavaScript.
+* [unique-string](https://github.com/sindresorhus/unique-string) ([npm](https://www.npmjs.com/package/unique-string)) - Generate a unique random string.
+* [yeast](https://github.com/unshiftio/yeast) ([npm](https://www.npmjs.com/package/yeast)) - Yeast is a unique id generator.
+* [shortid](https://github.com/dylang/shortid) ([npm](https://www.npmjs.com/package/shortid)) - Amazingly short non-sequential url-friendly unique id generator.
+* [lodash.uniqueid](https://github.com/lodash/lodash) ([npm](https://www.npmjs.com/package/lodash.uniqueid)) - The lodash method uniqueId exported as a Node.js module.
+* [uniqid](https://github.com/adamhalasz/uniqid) ([npm](https://www.npmjs.com/package/uniqid)) - A Unique Hexatridecimal ID generator.
+* [puid](https://github.com/pid/puid) ([npm](https://www.npmjs.com/package/puid)) - Generate an unique ID depending on time, machine and process for use in a distributed environment.
+* [flake-idgen](https://github.com/T-PWK/flake-idgen) ([npm](https://www.npmjs.com/package/flake-idgen)) - Flake ID generator yields k-ordered, conflict-free ids in a distributed environment.
+* []() ([npm]()) - 
+
+## Conversion
+
+** JavaScript **
+
 * [Hashids](https://github.com/ivanakimov/hashids.js) ([npm](https://www.npmjs.com/package/hashids)) - Hashids is small JavaScript library to generate YouTube-like ids from numbers.
 * []() ([npm]()) - 
 * []() ([npm]()) - 
