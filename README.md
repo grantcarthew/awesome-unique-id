@@ -33,4 +33,8 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 
 * [Hashids](https://github.com/ivanakimov/hashids.js) ([npm](https://www.npmjs.com/package/hashids)) - Hashids is small JavaScript library to generate YouTube-like ids from numbers.
 
+## License
 
+[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
+
+To the extent possible under law, [Grant Carthew](https://github.com/grantcarthew) has waived all copyright and related or neighboring rights to this work.
