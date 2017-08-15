@@ -19,11 +19,18 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 * [uniqid](https://github.com/adamhalasz/uniqid) ([npm](https://www.npmjs.com/package/uniqid)) - A Unique Hexatridecimal ID generator.
 * [puid](https://github.com/pid/puid) ([npm](https://www.npmjs.com/package/puid)) - Generate an unique ID depending on time, machine and process for use in a distributed environment.
 * [flake-idgen](https://github.com/T-PWK/flake-idgen) ([npm](https://www.npmjs.com/package/flake-idgen)) - Flake ID generator yields k-ordered, conflict-free ids in a distributed environment.
+* [get-uid](https://github.com/dfcreative/get-uid) ([npm](https://www.npmjs.com/package/get-uid)) - Simple random id generator.
+* [uniqueid](https://github.com/jonschlinkert/uniqueid) ([npm](https://www.npmjs.com/package/uniqueid)) - Generate sequential IDs, with optional prefix or suffix.
+* [hyperid](https://github.com/mcollina/hyperid) ([npm](https://www.npmjs.com/package/hyperid)) - Uber-fast unique id generation, for Node.js and the browser.
+* [uid](https://github.com/MatthewMueller/uid) ([npm](https://www.npmjs.com/package/uid)) - Generate unique ids of any length.
+* []() ([npm]()) - 
+* []() ([npm]()) - 
+* []() ([npm]()) - 
 * []() ([npm]()) - 
 
-## Conversion
+## Hash
 
-** JavaScript **
+**JavaScript**
 
 * [Hashids](https://github.com/ivanakimov/hashids.js) ([npm](https://www.npmjs.com/package/hashids)) - Hashids is small JavaScript library to generate YouTube-like ids from numbers.
 * []() ([npm]()) - 
