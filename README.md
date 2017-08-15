@@ -4,6 +4,7 @@ A curated list of awesome ID libraries and resources.
 Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 
 * [Generation](#generation)
+* [Hash](#hash)
 
 ## Generation
 
@@ -23,23 +24,13 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 * [uniqueid](https://github.com/jonschlinkert/uniqueid) ([npm](https://www.npmjs.com/package/uniqueid)) - Generate sequential IDs, with optional prefix or suffix.
 * [hyperid](https://github.com/mcollina/hyperid) ([npm](https://www.npmjs.com/package/hyperid)) - Uber-fast unique id generation, for Node.js and the browser.
 * [uid](https://github.com/MatthewMueller/uid) ([npm](https://www.npmjs.com/package/uid)) - Generate unique ids of any length.
-* []() ([npm]()) - 
-* []() ([npm]()) - 
-* []() ([npm]()) - 
-* []() ([npm]()) - 
+* [uid-safe](https://github.com/crypto-utils/uid-safe) ([npm](https://www.npmjs.com/package/uid-safe)) - URL and cookie safe UIDs.
+* [short-uuid](https://github.com/oculus42/short-uuid) ([npm](https://www.npmjs.com/package/short-uuid)) - Generate and translate standard UUIDs into shorter - or just different - formats and back.
 
 ## Hash
 
 **JavaScript**
 
 * [Hashids](https://github.com/ivanakimov/hashids.js) ([npm](https://www.npmjs.com/package/hashids)) - Hashids is small JavaScript library to generate YouTube-like ids from numbers.
-* []() ([npm]()) - 
-* []() ([npm]()) - 
-* []() ([npm]()) - 
-* []() ([npm]()) - 
-* []() ([npm]()) - 
-* []() ([npm]()) - 
-* []() ([npm]()) - 
-* []() ([npm]()) - 
-* []() ([npm]()) - 
+
 
