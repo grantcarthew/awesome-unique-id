@@ -11,6 +11,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 **JavaScript**
 
 * [uuid](https://github.com/kelektiv/node-uuid) ([npm](https://www.npmjs.com/package/uuid)) - Simple, fast generation of RFC4122 UUIDS.
+* [ulid](https://github.com/ulid) - Universally Unique Lexicographically Sortable Identifier.
 * [cuid](https://github.com/ericelliott/cuid) ([npm](https://www.npmjs.com/package/cuid)) - Collision-resistant ids optimized for horizontal scaling and sequential lookup performance.
 * [nanoid](https://github.com/ai/nanoid) ([npm](https://www.npmjs.com/package/nanoid)) - A tiny, secure URL-friendly unique string ID generator for JavaScript.
 * [unique-string](https://github.com/sindresorhus/unique-string) ([npm](https://www.npmjs.com/package/unique-string)) - Generate a unique random string.
