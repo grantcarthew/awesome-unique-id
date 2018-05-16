@@ -29,7 +29,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 ## Hash
 
 * [Hashids](https://github.com/ivanakimov/hashids.js) ([npm](https://www.npmjs.com/package/hashids)) - Hashids is small JavaScript library to generate YouTube-like ids from numbers.
-* [robohash](https://robohash.org/) - Generate unique images from any text.
+* [RoboHash](https://robohash.org/) - Generate unique images from any text.
 
 ## License
 
