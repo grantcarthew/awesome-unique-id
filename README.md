@@ -1,5 +1,5 @@
-# Awesome ID [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
-A curated list of awesome ID libraries and resources.
+# Awesome Unique ID [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+A curated list of awesome Unique ID libraries and resources.
 
 Unique identifiers are used everywhere. This list contains awesome projects you can use that generate IDs or hash then for security.
 
