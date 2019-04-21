@@ -28,7 +28,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 * [uid-safe](https://github.com/crypto-utils/uid-safe) ([npm](https://www.npmjs.com/package/uid-safe)) - URL and cookie safe UIDs.
 * [short-uuid](https://github.com/oculus42/short-uuid) ([npm](https://www.npmjs.com/package/short-uuid)) - Generate and translate standard UUIDs into shorter - or just different - formats and back.
 * [ObjectId](https://docs.mongodb.com/manual/reference/method/ObjectId/) ([github](https://github.com/mongodb/js-bson/blob/1.0-branch/lib/bson/objectid.js)) - MongoDBs ObjectId
-* [thinid](https://github.com/cuongw/thinid) ([npm](https://www.npmjs.com/package/thinid)) - 🚀📦 Create 🆔 unique ID like eating 🥞 pancakes.
+* [thinid](https://github.com/cuongw/thinid) ([npm](https://www.npmjs.com/package/thinid)) - 🚀📦 Easy way to create 🆔 unique id.
 
 ## Hash
 
