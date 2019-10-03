@@ -30,6 +30,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 * [short-uuid](https://github.com/oculus42/short-uuid) ([npm](https://www.npmjs.com/package/short-uuid)) - Generate and translate standard UUIDs into shorter - or just different - formats and back.
 * [ObjectId](https://docs.mongodb.com/manual/reference/method/ObjectId/) ([github](https://github.com/mongodb/js-bson/blob/1.0-branch/lib/bson/objectid.js)) - MongoDBs ObjectId
 * [thinid](https://github.com/cuongw/thinid) ([npm](https://www.npmjs.com/package/thinid)) - Easy way to create unique ids.
+* [human-readable-ids](https://git.coolaj86.com/coolaj86/human-readable-ids.js.git) ([npm](https://www.npmjs.com/package/human-readable-ids)) - Use JavaScript to generate human-readable ids from a list of nouns and adjectives.
 
 ## Hash
 
