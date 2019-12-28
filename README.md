@@ -10,6 +10,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 
 ## Generation
 
+
 * [uuid](https://github.com/kelektiv/node-uuid) ([npm](https://www.npmjs.com/package/uuid)) - Simple, fast generation of RFC4122 UUIDS.
 * [ulid](https://github.com/ulid) ([npm](https://www.npmjs.com/package/ulid)) - Universally Unique Lexicographically Sortable Identifier.
 * [cuid](https://github.com/ericelliott/cuid) ([npm](https://www.npmjs.com/package/cuid)) - Collision-resistant ids optimized for horizontal scaling and sequential lookup performance.
@@ -31,6 +32,9 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 * [ObjectId](https://docs.mongodb.com/manual/reference/method/ObjectId/) ([github](https://github.com/mongodb/js-bson/blob/1.0-branch/lib/bson/objectid.js)) - MongoDBs ObjectId
 * [thinid](https://github.com/cuongw/thinid) ([npm](https://www.npmjs.com/package/thinid)) - Easy way to create unique ids.
 * [human-readable-ids](https://git.coolaj86.com/coolaj86/human-readable-ids.js.git) ([npm](https://www.npmjs.com/package/human-readable-ids)) - Use JavaScript to generate human-readable ids from a list of nouns and adjectives.
+* [ksuid](https://github.com/segmentio/ksuid) ([npm](https://www.npmjs.com/package/ksuid)) - K-Sortable Globally Unique IDs.
+* [flake-idgen](https://github.com/T-PWK/flake-idgen) ([npm](https://www.npmjs.com/package/flake-idgen)) - Flake ID generator yields k-ordered, conflict-free ids in a distributed environment in Node.js.
+* [xid](https://github.com/rs/xid) (Go) - xid is a globally unique id generator thought for the web.
 
 ## Hash
 
