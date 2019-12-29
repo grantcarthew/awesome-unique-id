@@ -33,7 +33,6 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 * [thinid](https://github.com/cuongw/thinid) ([npm](https://www.npmjs.com/package/thinid)) - Easy way to create unique ids.
 * [human-readable-ids](https://git.coolaj86.com/coolaj86/human-readable-ids.js.git) ([npm](https://www.npmjs.com/package/human-readable-ids)) - Use JavaScript to generate human-readable ids from a list of nouns and adjectives.
 * [ksuid](https://github.com/segmentio/ksuid) ([npm](https://www.npmjs.com/package/ksuid)) - K-Sortable Globally Unique IDs.
-* [flake-idgen](https://github.com/T-PWK/flake-idgen) ([npm](https://www.npmjs.com/package/flake-idgen)) - Flake ID generator yields k-ordered, conflict-free ids in a distributed environment in Node.js.
 * [xid](https://github.com/rs/xid) (Go) - xid is a globally unique id generator thought for the web.
 
 ## Hash
