@@ -24,6 +24,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 * [puid](https://github.com/pid/puid) ([npm](https://www.npmjs.com/package/puid)) - Generate an unique ID depending on time, machine and process for use in a distributed environment.
 * [flake-idgen](https://github.com/T-PWK/flake-idgen) ([npm](https://www.npmjs.com/package/flake-idgen)) - Flake ID generator yields k-ordered, conflict-free ids in a distributed environment.
 * [get-uid](https://github.com/dfcreative/get-uid) ([npm](https://www.npmjs.com/package/get-uid)) - Simple random id generator.
+* [muid](https://github.com/microprediction/muid) generates id's whose hashes are, in part, memorable. See [video explanation](https://vimeo.com/397352413)
 * [uniqueid](https://github.com/jonschlinkert/uniqueid) ([npm](https://www.npmjs.com/package/uniqueid)) - Generate sequential IDs, with optional prefix or suffix.
 * [hyperid](https://github.com/mcollina/hyperid) ([npm](https://www.npmjs.com/package/hyperid)) - Uber-fast unique id generation, for Node.js and the browser.
 * [uid](https://github.com/MatthewMueller/uid) ([npm](https://www.npmjs.com/package/uid)) - Generate unique ids of any length.
@@ -34,6 +35,8 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 * [human-readable-ids](https://git.coolaj86.com/coolaj86/human-readable-ids.js.git) ([npm](https://www.npmjs.com/package/human-readable-ids)) - Use JavaScript to generate human-readable ids from a list of nouns and adjectives.
 * [ksuid](https://github.com/segmentio/ksuid) ([npm](https://www.npmjs.com/package/ksuid)) - K-Sortable Globally Unique IDs.
 * [xid](https://github.com/rs/xid) (Go) - xid is a globally unique id generator thought for the web.
+
+
 
 ## Hash
 
