@@ -36,6 +36,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 * [human-readable-ids](https://git.coolaj86.com/coolaj86/human-readable-ids.js.git) ([npm](https://www.npmjs.com/package/human-readable-ids)) - Use JavaScript to generate human-readable ids from a list of nouns and adjectives.
 * [ksuid](https://github.com/segmentio/ksuid) ([npm](https://www.npmjs.com/package/ksuid)) - K-Sortable Globally Unique IDs.
 * [xid](https://github.com/rs/xid) (Go) - xid is a globally unique id generator thought for the web.
+* [unique-sequence](https://github.com/kayomarz/unique-sequence) ([npm](https://www.npmjs.com/package/unique-sequence)) - Generate short sequential strings.
 
 
 
