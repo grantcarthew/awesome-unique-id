@@ -29,7 +29,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 * [hyperid](https://github.com/mcollina/hyperid) ([npm](https://www.npmjs.com/package/hyperid)) - Uber-fast unique id generation, for Node.js and the browser.
 * [uid](https://github.com/MatthewMueller/uid) ([npm](https://www.npmjs.com/package/uid)) - Generate unique ids of any length.
 * [uid-safe](https://github.com/crypto-utils/uid-safe) ([npm](https://www.npmjs.com/package/uid-safe)) - URL and cookie safe UIDs.
-* [short-uuid](https://github.com/oculus42/short-uuid) ([npm](https://www.npmjs.com/package/short-uuid)) - Generate and translate standard UUIDs into shorter - or just different - formats and back.
+* [nanoid](https://github.com/ai/nanoid) ([npm](https://www.npmjs.com/package/nanoid)) - A tiny, secure, URL-friendly, unique string ID generator for JavaScript.
 * [ObjectId](https://docs.mongodb.com/manual/reference/method/ObjectId/) ([github](https://github.com/mongodb/js-bson/blob/1.0-branch/lib/bson/objectid.js)) - MongoDBs ObjectId
 * [thinid](https://github.com/cuongw/thinid) ([npm](https://www.npmjs.com/package/thinid)) - Easy way to create unique ids.
 * [uuid-readable](https://github.com/Debdut/uuid-readable) ([npm](https://www.npmjs.com/package/uuid-readable)) - Generate Easy to Remember, Readable UUIDs, that are Shakespearean and Gramatically Correct Sentences.
