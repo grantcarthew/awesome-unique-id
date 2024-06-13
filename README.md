@@ -15,7 +15,6 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 * [ulid](https://github.com/ulid) ([npm](https://www.npmjs.com/package/ulid)) - Universally Unique Lexicographically Sortable Identifier.
 * [cuid2](https://github.com/paralleldrive/cuid2) ([npm](https://www.npmjs.com/package/@paralleldrive/cuid2)) - Secure, collision-resistant ids optimized for horizontal scaling and performance. Next generation uuids.
 * [nanoid](https://github.com/ai/nanoid) ([npm](https://www.npmjs.com/package/nanoid)) - A tiny, secure URL-friendly unique string ID generator for JavaScript.
-* [unique-string](https://github.com/sindresorhus/unique-string) ([npm](https://www.npmjs.com/package/unique-string)) - Generate a unique random string.
 * [crypto-random-string](https://github.com/sindresorhus/crypto-random-string) ([npm](https://www.npmjs.com/package/crypto-random-string)) - Generate a cryptographically strong random string.
 * [yeast](https://github.com/unshiftio/yeast) ([npm](https://www.npmjs.com/package/yeast)) - Yeast is a unique id generator.
 * [shortid](https://github.com/dylang/shortid) ([npm](https://www.npmjs.com/package/shortid)) - Amazingly short non-sequential url-friendly unique id generator.
