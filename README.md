@@ -37,10 +37,10 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 * [xid](https://github.com/rs/xid) (Go) - xid is a globally unique id generator thought for the web.
 * [unique-sequence](https://github.com/kayomarz/unique-sequence) ([npm](https://www.npmjs.com/package/unique-sequence)) - Generate short sequential strings.
 * [breezeid](https://github.com/tzwel/BreezeID) ([npm](https://www.npmjs.com/package/breezeid)) - Easily generate unique, human-first IDs
+* [Sqids](https://sqids.org) ([npm](https://www.npmjs.com/package/sqids)) - Sqids is small JavaScript library to generate YouTube-like ids from numbers.
 
 ## Hash
 
-* [Sqids](https://sqids.org) ([npm](https://www.npmjs.com/package/sqids)) - Sqids is small JavaScript library to generate YouTube-like ids from numbers.
 * [RoboHash](https://robohash.org/) ([github](https://github.com/e1ven/Robohash)) - Generate unique images from any text.
 
 ## License
