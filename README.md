@@ -31,6 +31,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 * [nanoid](https://github.com/ai/nanoid) ([npm](https://www.npmjs.com/package/nanoid)) - A tiny, secure, URL-friendly, unique string ID generator for JavaScript.
 * [ObjectId](https://docs.mongodb.com/manual/reference/method/ObjectId/) ([github](https://github.com/mongodb/js-bson/blob/1.0-branch/lib/bson/objectid.js)) - MongoDBs ObjectId
 * [uuid-readable](https://github.com/Debdut/uuid-readable) ([npm](https://www.npmjs.com/package/uuid-readable)) - Generate Easy to Remember, Readable UUIDs, that are Shakespearean and Gramatically Correct Sentences.
+* [human-id](https://github.com/RienNeVaPlus/human-id) ([npm](https://www.npmjs.com/package/human-id)) - Generates human readable identifier strings by chaning common (short) words of the english language. 
 * [human-readable-ids](https://git.coolaj86.com/coolaj86/human-readable-ids.js.git) ([npm](https://www.npmjs.com/package/human-readable-ids)) - Use JavaScript to generate human-readable ids from a list of nouns and adjectives.
 * [ksuid](https://github.com/segmentio/ksuid) ([npm](https://www.npmjs.com/package/ksuid)) - K-Sortable Globally Unique IDs.
 * [xid](https://github.com/rs/xid) (Go) - xid is a globally unique id generator thought for the web.
