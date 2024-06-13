@@ -23,7 +23,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 * [puid](https://github.com/pid/puid) ([npm](https://www.npmjs.com/package/puid)) - Generate an unique ID depending on time, machine and process for use in a distributed environment.
 * [flake-idgen](https://github.com/T-PWK/flake-idgen) ([npm](https://www.npmjs.com/package/flake-idgen)) - Flake ID generator yields k-ordered, conflict-free ids in a distributed environment.
 * [get-uid](https://github.com/dfcreative/get-uid) ([npm](https://www.npmjs.com/package/get-uid)) - Simple random id generator.
-* [muid](https://github.com/microprediction/muid) generates id's whose hashes are, in part, memorable. See [video explanation](https://vimeo.com/397352413)
+* [muid](https://github.com/microprediction/muid) Generates IDs whose hashes are, in part, memorable. See [video explanation](https://vimeo.com/397352413)
 * [uniqueid](https://github.com/jonschlinkert/uniqueid) ([npm](https://www.npmjs.com/package/uniqueid)) - Generate sequential IDs, with optional prefix or suffix.
 * [hyperid](https://github.com/mcollina/hyperid) ([npm](https://www.npmjs.com/package/hyperid)) - Uber-fast unique id generation, for Node.js and the browser.
 * [uid](https://github.com/MatthewMueller/uid) ([npm](https://www.npmjs.com/package/uid)) - Generate unique ids of any length.
@@ -40,7 +40,6 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 * [Sqids](https://sqids.org) ([npm](https://www.npmjs.com/package/sqids)) - Sqids is small JavaScript library to generate YouTube-like ids from numbers.
 
 ## Hash
-
 * [RoboHash](https://robohash.org/) ([github](https://github.com/e1ven/Robohash)) - Generate unique images from any text.
 
 ## License
