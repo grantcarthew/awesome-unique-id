@@ -36,8 +36,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 * [ksuid](https://github.com/segmentio/ksuid) ([npm](https://www.npmjs.com/package/ksuid)) - K-Sortable Globally Unique IDs.
 * [xid](https://github.com/rs/xid) (Go) - xid is a globally unique id generator thought for the web.
 * [unique-sequence](https://github.com/kayomarz/unique-sequence) ([npm](https://www.npmjs.com/package/unique-sequence)) - Generate short sequential strings.
-
-
+* [breezeid](https://github.com/tzwel/BreezeID) ([npm](https://www.npmjs.com/package/breezeid)) - Easily generate unique, human-first IDs
 
 ## Hash
 
