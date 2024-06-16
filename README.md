@@ -1,4 +1,4 @@
-# Awesome Unique ID [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+# Awesome Unique ID [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 A curated list of awesome Unique ID libraries and resources.
 
 Unique identifiers are used everywhere. This list contains awesome projects you can use that generate IDs or hash then for security.
@@ -39,7 +39,7 @@ Unique identifiers are used everywhere. This list contains awesome projects you 
 - [muid](https://github.com/microprediction/muid) - Generates IDs whose hashes are, in part, memorable. See [video explanation](https://vimeo.com/397352413)
 
 ### Go
-- [xid](https://github.com/rs/xid) - xid is a globally unique id generator thought for the web.
+- [xid](https://github.com/rs/xid) - Xid is a globally unique id generator thought for the web.
 - [ksuid](https://github.com/segmentio/ksuid) - K-Sortable Globally Unique IDs.
 
 
