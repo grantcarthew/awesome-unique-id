@@ -3,8 +3,6 @@ A curated list of awesome Unique ID libraries and resources.
 
 Unique identifiers are used everywhere. This list contains awesome projects you can use that generate IDs or hash then for security.
 
-Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
-
 ## Contents
 - [Generation](#generation)
 - [Hash](#hash)
@@ -46,11 +44,11 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 
 
 ## Hash
-- [RoboHash](https://robohash.org/) ([github](https://github.com/e1ven/Robohash)) - Generate unique images from any text.
+- [RoboHash](https://robohash.org/) ([Github](https://github.com/e1ven/Robohash)) - Generate unique images from any text.
 
 ## Research
-- [The definitive guide to modulo bias and how to avoid it](https://research.kudelskisecurity.com/2020/07/28/the-definitive-guide-to-modulo-bias-and-how-to-avoid-it) - Generate unbiased random numbers
-- [Efficiently generating a number in range](https://www.pcg-random.org/posts/bounded-rands.html) - Discusses performance problems in PRNGs and many algorithms
+- [The definitive guide to modulo bias and how to avoid it](https://research.kudelskisecurity.com/2020/07/28/the-definitive-guide-to-modulo-bias-and-how-to-avoid-it) - Generate unbiased random numbers.
+- [Efficiently generating a number in range](https://www.pcg-random.org/posts/bounded-rands.html) - Discusses performance problems in PRNGs and many algorithms.
 
 ## License
 
