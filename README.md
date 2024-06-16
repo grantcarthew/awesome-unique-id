@@ -10,7 +10,6 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 
 ## Generation
 
-
 * [uuid](https://github.com/kelektiv/node-uuid) ([npm](https://www.npmjs.com/package/uuid)) - Simple, fast generation of RFC4122 UUIDS.
 * [ulid](https://github.com/ulid) ([npm](https://www.npmjs.com/package/ulid)) - Universally Unique Lexicographically Sortable Identifier.
 * [cuid2](https://github.com/paralleldrive/cuid2) ([npm](https://www.npmjs.com/package/@paralleldrive/cuid2)) - Secure, collision-resistant ids optimized for horizontal scaling and performance. Next generation uuids.
@@ -39,7 +38,14 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 * [Sqids](https://sqids.org) ([npm](https://www.npmjs.com/package/sqids)) - Sqids is small JavaScript library to generate YouTube-like ids from numbers.
 
 ## Hash
+
 * [RoboHash](https://robohash.org/) ([github](https://github.com/e1ven/Robohash)) - Generate unique images from any text.
+
+## Research
+- [The definitive guide to modulo bias and how to avoid it](https://research.kudelskisecurity.com/2020/07/28/the-definitive-guide-to-modulo-bias-and-how-to-avoid-it) - Generate unbiased random numbers
+- [Efficiently generating a number in range](https://www.pcg-random.org/posts/bounded-rands.html) - Discusses performance problems in PRNGs
+
+
 
 ## License
 
