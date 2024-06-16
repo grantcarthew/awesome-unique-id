@@ -5,9 +5,10 @@ Unique identifiers are used everywhere. This list contains awesome projects you 
 
 Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 
-* [Generation](#generation)
-* [Hash](#hash)
-* [Research](#research)
+## Contents
+- [Generation](#generation)
+- [Hash](#hash)
+- [Research](#research)
 
 ## Generation
 
