@@ -28,7 +28,6 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 * [hyperid](https://github.com/mcollina/hyperid) ([npm](https://www.npmjs.com/package/hyperid)) - Uber-fast unique id generation, for Node.js and the browser.
 * [uid](https://github.com/lukeed/uid) ([npm](https://www.npmjs.com/package/uid)) - Generate unique ids of any length.
 * [uid-safe](https://github.com/crypto-utils/uid-safe) ([npm](https://www.npmjs.com/package/uid-safe)) - URL and cookie safe UIDs.
-* [nanoid](https://github.com/ai/nanoid) ([npm](https://www.npmjs.com/package/nanoid)) - A tiny, secure, URL-friendly, unique string ID generator for JavaScript.
 * [uuid-readable](https://github.com/Debdut/uuid-readable) ([npm](https://www.npmjs.com/package/uuid-readable)) - Generate Easy to Remember, Readable UUIDs, that are Shakespearean and Gramatically Correct Sentences.
 * [human-id](https://github.com/RienNeVaPlus/human-id) ([npm](https://www.npmjs.com/package/human-id)) - Generates human readable identifier strings by chaining common (short) words of the english language. 
 * [unique-sequence](https://github.com/kayomarz/unique-sequence) ([npm](https://www.npmjs.com/package/unique-sequence)) - Generate short sequential strings.
@@ -38,7 +37,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 
 
 ### Python
-* [muid](https://github.com/microprediction/muid) Generates IDs whose hashes are, in part, memorable. See [video explanation](https://vimeo.com/397352413)
+* [muid](https://github.com/microprediction/muid) - Generates IDs whose hashes are, in part, memorable. See [video explanation](https://vimeo.com/397352413)
 
 ### Go
 * [xid](https://github.com/rs/xid) - xid is a globally unique id generator thought for the web.
@@ -49,10 +48,8 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 * [RoboHash](https://robohash.org/) ([github](https://github.com/e1ven/Robohash)) - Generate unique images from any text.
 
 ## Research
-- [The definitive guide to modulo bias and how to avoid it](https://research.kudelskisecurity.com/2020/07/28/the-definitive-guide-to-modulo-bias-and-how-to-avoid-it) - Generate unbiased random numbers
-- [Efficiently generating a number in range](https://www.pcg-random.org/posts/bounded-rands.html) - Discusses performance problems in PRNGs and many algorithms
-
-
+* [The definitive guide to modulo bias and how to avoid it](https://research.kudelskisecurity.com/2020/07/28/the-definitive-guide-to-modulo-bias-and-how-to-avoid-it) - Generate unbiased random numbers
+* [Efficiently generating a number in range](https://www.pcg-random.org/posts/bounded-rands.html) - Discusses performance problems in PRNGs and many algorithms
 
 ## License
 
