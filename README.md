@@ -1,7 +1,7 @@
 # Awesome Unique ID [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![All Contributors](https://img.shields.io/github/all-contributors/grantcarthew/awesome-unique-id?color=ee8449&style=flat-square)](#contributors)
 A curated list of awesome Unique ID libraries and resources.
 
-Unique identifiers are used everywhere. This list contains awesome projects you can use that generate IDs or hash then for security.
+Unique identifiers are used everywhere. This list contains awesome projects you can use that generate IDs or hash them for security.
 
 ## Contents
 - [Generation](#generation)
@@ -27,11 +27,11 @@ Unique identifiers are used everywhere. This list contains awesome projects you 
 - [hyperid](https://github.com/mcollina/hyperid) ([npm](https://www.npmjs.com/package/hyperid)) - Uber-fast unique id generation, for Node.js and the browser.
 - [uid](https://github.com/lukeed/uid) ([npm](https://www.npmjs.com/package/uid)) - Generate unique ids of any length.
 - [uid-safe](https://github.com/crypto-utils/uid-safe) ([npm](https://www.npmjs.com/package/uid-safe)) - URL and cookie safe UIDs.
-- [uuid-readable](https://github.com/Debdut/uuid-readable) ([npm](https://www.npmjs.com/package/uuid-readable)) - Generate Easy to Remember, Readable UUIDs, that are Shakespearean and Gramatically Correct Sentences.
-- [human-id](https://github.com/RienNeVaPlus/human-id) ([npm](https://www.npmjs.com/package/human-id)) - Generates human readable identifier strings by chaining common (short) words of the english language. 
+- [uuid-readable](https://github.com/Debdut/uuid-readable) ([npm](https://www.npmjs.com/package/uuid-readable)) - Generate Easy to Remember, Readable UUIDs, that are Shakespearean and Grammatically Correct Sentences.
+- [human-id](https://github.com/RienNeVaPlus/human-id) ([npm](https://www.npmjs.com/package/human-id)) - Generates human-readable identifier strings by chaining common (short) words of the English language. 
 - [unique-sequence](https://github.com/kayomarz/unique-sequence) ([npm](https://www.npmjs.com/package/unique-sequence)) - Generate short sequential strings.
 - [breezeid](https://github.com/tzwel/BreezeID) ([npm](https://www.npmjs.com/package/breezeid)) - Easily generate unique, human-first IDs
-- [Sqids](https://sqids.org) ([npm](https://www.npmjs.com/package/sqids)) - Sqids is small JavaScript library to generate YouTube-like ids from numbers.
+- [Sqids](https://sqids.org) ([npm](https://www.npmjs.com/package/sqids)) - Sqids is a small JavaScript library to generate YouTube-like ids from numbers.
 - [ksuid](https://github.com/novemberborn/ksuid) ([npm](https://www.npmjs.com/package/ksuid)) - K-Sortable Globally Unique IDs
 
 
