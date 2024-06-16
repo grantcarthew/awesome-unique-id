@@ -7,6 +7,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 
 * [Generation](#generation)
 * [Hash](#hash)
+* [Research](#research)
 
 ## Generation
 
