@@ -32,7 +32,6 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 * [ObjectId](https://docs.mongodb.com/manual/reference/method/ObjectId/) ([github](https://github.com/mongodb/js-bson/blob/1.0-branch/lib/bson/objectid.js)) - MongoDBs ObjectId
 * [uuid-readable](https://github.com/Debdut/uuid-readable) ([npm](https://www.npmjs.com/package/uuid-readable)) - Generate Easy to Remember, Readable UUIDs, that are Shakespearean and Gramatically Correct Sentences.
 * [human-id](https://github.com/RienNeVaPlus/human-id) ([npm](https://www.npmjs.com/package/human-id)) - Generates human readable identifier strings by chaining common (short) words of the english language. 
-* [ksuid](https://github.com/segmentio/ksuid) ([npm](https://www.npmjs.com/package/ksuid)) - K-Sortable Globally Unique IDs.
 * [unique-sequence](https://github.com/kayomarz/unique-sequence) ([npm](https://www.npmjs.com/package/unique-sequence)) - Generate short sequential strings.
 * [breezeid](https://github.com/tzwel/BreezeID) ([npm](https://www.npmjs.com/package/breezeid)) - Easily generate unique, human-first IDs
 * [Sqids](https://sqids.org) ([npm](https://www.npmjs.com/package/sqids)) - Sqids is small JavaScript library to generate YouTube-like ids from numbers.
@@ -43,6 +42,8 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 
 ### Go
 * [xid](https://github.com/rs/xid) - xid is a globally unique id generator thought for the web.
+* [ksuid](https://github.com/segmentio/ksuid) ([npm](https://www.npmjs.com/package/ksuid)) - K-Sortable Globally Unique IDs.
+
 
 ## Hash
 * [RoboHash](https://robohash.org/) ([github](https://github.com/e1ven/Robohash)) - Generate unique images from any text.
