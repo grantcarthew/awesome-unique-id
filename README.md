@@ -34,7 +34,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 * [unique-sequence](https://github.com/kayomarz/unique-sequence) ([npm](https://www.npmjs.com/package/unique-sequence)) - Generate short sequential strings.
 * [breezeid](https://github.com/tzwel/BreezeID) ([npm](https://www.npmjs.com/package/breezeid)) - Easily generate unique, human-first IDs
 * [Sqids](https://sqids.org) ([npm](https://www.npmjs.com/package/sqids)) - Sqids is small JavaScript library to generate YouTube-like ids from numbers.
-* [ksuid](https://github.com/novemberborn/ksuid) ([npm])(https://www.npmjs.com/package/ksuid) - K-Sortable Globally Unique IDs
+* [ksuid](https://github.com/novemberborn/ksuid) (([npm](https://www.npmjs.com/package/ksuid)) - K-Sortable Globally Unique IDs
 
 
 ### Python
