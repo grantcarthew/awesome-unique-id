@@ -1,9 +1,11 @@
 # Awesome Unique ID [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![All Contributors](https://img.shields.io/github/all-contributors/grantcarthew/awesome-unique-id?color=ee8449&style=flat-square)](#contributors)
+
 A curated list of awesome Unique ID libraries and resources.
 
 Unique identifiers are used everywhere. This list contains awesome projects you can use that generate IDs or hash them for security.
 
 ## Contents
+
 - [Generation](#generation)
 - [Hash](#hash)
 - [Research](#research)
@@ -11,6 +13,7 @@ Unique identifiers are used everywhere. This list contains awesome projects you 
 ## Generation
 
 ### JavaScript
+
 - [uuid](https://github.com/kelektiv/node-uuid) ([npm](https://www.npmjs.com/package/uuid)) - Simple, fast generation of RFC4122 UUIDS.
 - [ulid](https://github.com/ulid) ([npm](https://www.npmjs.com/package/ulid)) - Universally Unique Lexicographically Sortable Identifier.
 - [cuid2](https://github.com/paralleldrive/cuid2) ([npm](https://www.npmjs.com/package/@paralleldrive/cuid2)) - Secure, collision-resistant ids optimized for horizontal scaling and performance. Next generation uuids.
@@ -36,17 +39,21 @@ Unique identifiers are used everywhere. This list contains awesome projects you 
 
 
 ### Python
+
 - [muid](https://github.com/microprediction/muid) - Generates IDs whose hashes are, in part, memorable. See [video explanation](https://vimeo.com/397352413)
 
 ### Go
+
 - [xid](https://github.com/rs/xid) - Xid is a globally unique id generator thought for the web.
 - [ksuid](https://github.com/segmentio/ksuid) - K-Sortable Globally Unique IDs.
 
 
 ## Hash
+
 - [RoboHash](https://robohash.org/) ([Github](https://github.com/e1ven/Robohash)) - Generate unique images from any text.
 
 ## Research
+
 - [The definitive guide to modulo bias and how to avoid it](https://research.kudelskisecurity.com/2020/07/28/the-definitive-guide-to-modulo-bias-and-how-to-avoid-it) - Generate unbiased random numbers.
 - [Efficiently generating a number in range](https://www.pcg-random.org/posts/bounded-rands.html) - Discusses performance problems in PRNGs and many algorithms.
 
