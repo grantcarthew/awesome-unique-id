@@ -24,6 +24,15 @@
         "maintenance",
         "research"
       ]
+    },
+    {
+      "login": "cuongndc",
+      "name": "Cuong Nguyen",
+      "avatar_url": "https://avatars.githubusercontent.com/u/34389409?v=4",
+      "profile": "https://github.com/cuongndc",
+      "contributions": [
+        "content"
+      ]
     }
   ]
 }
