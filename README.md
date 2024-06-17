@@ -71,7 +71,7 @@ To the extent possible under law, [Grant Carthew](https://github.com/grantcarthe
 <table>
   <tbody>
     <tr>
-      <td align="center" valign="top" width="14.28%"><a href="https://github.com/kayomarz"><img src="https://avatars.githubusercontent.com/u/140297?v=4?s=100" width="100px;" alt="Kayomarz"/><br /><sub><b>Kayomarz</b></sub></a><br /><a href="#content-kayomarz" title="Content">🖋</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/kayomarz"><img src="https://avatars.githubusercontent.com/u/140297?v=4?s=100" width="100px;" alt="Kayomarz"/><br /><sub><b>Kayomarz</b></sub></a><br /><a href="#content-kayomarz" title="Content">🖋</a> <a href="https://github.com/grantcarthew/awesome-unique-id/commits?author=kayomarz" title="Documentation">📖</a> <a href="#ideas-kayomarz" title="Ideas, Planning, & Feedback">🤔</a> <a href="#maintenance-kayomarz" title="Maintenance">🚧</a> <a href="#research-kayomarz" title="Research">🔬</a></td>
     </tr>
   </tbody>
 </table>
