@@ -68,6 +68,13 @@ To the extent possible under law, [Grant Carthew](https://github.com/grantcarthe
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 <!-- prettier-ignore-start -->
 <!-- markdownlint-disable -->
+<table>
+  <tbody>
+    <tr>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/kayomarz"><img src="https://avatars.githubusercontent.com/u/140297?v=4?s=100" width="100px;" alt="Kayomarz"/><br /><sub><b>Kayomarz</b></sub></a><br /><a href="#content-kayomarz" title="Content">🖋</a></td>
+    </tr>
+  </tbody>
+</table>
 
 <!-- markdownlint-restore -->
 <!-- prettier-ignore-end -->
