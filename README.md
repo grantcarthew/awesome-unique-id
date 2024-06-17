@@ -9,6 +9,8 @@ Unique identifiers are used everywhere. This list contains awesome projects you 
 - [Generation](#generation)
 - [Hash](#hash)
 - [Research](#research)
+- [License](#license)
+- [Contributors](#contributors)
 
 ## Generation
 
