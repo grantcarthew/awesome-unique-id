@@ -1,4 +1,4 @@
-# Awesome Unique ID [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![All Contributors](https://img.shields.io/github/all-contributors/grantcarthew/awesome-unique-id?color=ee8449)](#contributors)
+# Awesome Unique ID [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![All Contributors](https://img.shields.io/github/all-contributors/grantcarthew/awesome-unique-id?color=ee8449)](https://github.com/grantcarthew/awesome-unique-id/graphs/contributors)
 
 A curated list of awesome Unique ID libraries and resources.
 
@@ -9,7 +9,6 @@ Unique identifiers are used everywhere. This list contains awesome projects you 
 - [Generation](#generation)
 - [Hash](#hash)
 - [Research](#research)
-- [License](#license)
 - [Contributors](#contributors)
 
 ## Generation
@@ -58,12 +57,6 @@ Unique identifiers are used everywhere. This list contains awesome projects you 
 
 - [The definitive guide to modulo bias and how to avoid it](https://research.kudelskisecurity.com/2020/07/28/the-definitive-guide-to-modulo-bias-and-how-to-avoid-it) - Generate unbiased random numbers.
 - [Efficiently generating a number in range](https://www.pcg-random.org/posts/bounded-rands.html) - Discusses performance problems in PRNGs and many algorithms.
-
-## License
-
-[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
-
-To the extent possible under law, [Grant Carthew](https://github.com/grantcarthew) has waived all copyright and related or neighboring rights to this work.
 
 ## Contributors
 
