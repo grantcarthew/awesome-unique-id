@@ -7,5 +7,19 @@
     "README.md"
   ],
   "imageSize": 100,
-  "commit": true
+  "commit": true,
+  "commitType": "docs",
+  "commitConvention": "angular",
+  "contributorsPerLine": 7,
+  "contributors": [
+    {
+      "login": "tzwel",
+      "name": "tzwel",
+      "avatar_url": "https://avatars.githubusercontent.com/u/39600182?v=4",
+      "profile": "https://github.com/tzwel",
+      "contributions": [
+        "content"
+      ]
+    }
+  ]
 }
