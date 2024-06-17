@@ -71,7 +71,7 @@ To the extent possible under law, [Grant Carthew](https://github.com/grantcarthe
 <table>
   <tbody>
     <tr>
-      <td align="center" valign="top" width="14.28%"><a href="http://madcity.at"><img src="https://avatars.githubusercontent.com/u/343392?v=4?s=100" width="100px;" alt="Matthias Esterl"/><br /><sub><b>Matthias Esterl</b></sub></a><br /><a href="#content-madc" title="Content">🖋</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="http://madcity.at"><img src="https://avatars.githubusercontent.com/u/343392?v=4?s=100" width="100px;" alt="Matthias Esterl"/><br /><sub><b>Matthias Esterl</b></sub></a><br /><a href="#content-madc" title="Content">🖋</a> <a href="https://github.com/grantcarthew/awesome-unique-id/commits?author=madc" title="Documentation">📖</a> <a href="#ideas-madc" title="Ideas, Planning, & Feedback">🤔</a> <a href="#maintenance-madc" title="Maintenance">🚧</a> <a href="#research-madc" title="Research">🔬</a></td>
     </tr>
   </tbody>
 </table>
