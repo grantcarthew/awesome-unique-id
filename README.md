@@ -52,7 +52,7 @@ Unique identifiers are used everywhere. This list contains awesome projects you 
 
 ## Hash
 
-- [RoboHash](https://robohash.org/) ([Github](https://github.com/e1ven/Robohash)) - Generate unique images from any text.
+- [RoboHash](https://robohash.org/) ([GitHub](https://github.com/e1ven/Robohash)) - Generate unique images from any text.
 
 ## Research
 
