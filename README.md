@@ -1,4 +1,4 @@
-# Awesome Unique ID [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![All Contributors](https://img.shields.io/github/all-contributors/grantcarthew/awesome-unique-id?color=ee8449)](/graphs/contributors)
+# Awesome Unique ID [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![All Contributors](https://img.shields.io/github/all-contributors/grantcarthew/awesome-unique-id?color=ee8449)](https://github.com/grantcarthew/awesome-unique-id/graphs/contributors)
 
 A curated list of awesome Unique ID libraries and resources.
 
