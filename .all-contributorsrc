@@ -7,5 +7,19 @@
     "README.md"
   ],
   "imageSize": 100,
-  "commit": true
+  "commit": true,
+  "commitType": "docs",
+  "commitConvention": "angular",
+  "contributorsPerLine": 7,
+  "contributors": [
+    {
+      "login": "madc",
+      "name": "Matthias Esterl",
+      "avatar_url": "https://avatars.githubusercontent.com/u/343392?v=4",
+      "profile": "http://madcity.at",
+      "contributions": [
+        "content"
+      ]
+    }
+  ]
 }
