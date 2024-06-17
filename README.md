@@ -72,6 +72,7 @@ To the extent possible under law, [Grant Carthew](https://github.com/grantcarthe
   <tbody>
     <tr>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/tzwel"><img src="https://avatars.githubusercontent.com/u/39600182?v=4?s=100" width="100px;" alt="tzwel"/><br /><sub><b>tzwel</b></sub></a><br /><a href="#content-tzwel" title="Content">🖋</a> <a href="https://github.com/grantcarthew/awesome-unique-id/commits?author=tzwel" title="Documentation">📖</a> <a href="#ideas-tzwel" title="Ideas, Planning, & Feedback">🤔</a> <a href="#maintenance-tzwel" title="Maintenance">🚧</a> <a href="#research-tzwel" title="Research">🔬</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/amitlzkpa"><img src="https://avatars.githubusercontent.com/u/15354742?v=4?s=100" width="100px;" alt="Amit Nambiar"/><br /><sub><b>Amit Nambiar</b></sub></a><br /><a href="#content-amitlzkpa" title="Content">🖋</a></td>
     </tr>
   </tbody>
 </table>
