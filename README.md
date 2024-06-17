@@ -25,7 +25,7 @@ Unique identifiers are used everywhere. This list contains awesome projects you 
 - [shortid](https://github.com/dylang/shortid) ([npm](https://www.npmjs.com/package/shortid)) - Amazingly short non-sequential url-friendly unique id generator.
 - [lodash.uniqueid](https://github.com/lodash/lodash) ([npm](https://www.npmjs.com/package/lodash.uniqueid)) - The lodash method uniqueId exported as a Node.js module.
 - [uniqid](https://github.com/adamhalasz/uniqid) ([npm](https://www.npmjs.com/package/uniqid)) - A Unique Hexatridecimal ID generator.
-- [puid](https://github.com/pid/puid) ([npm](https://www.npmjs.com/package/puid)) - Generate an unique ID depending on time, machine and process for use in a distributed environment.
+- [puid](https://github.com/pid/puid) ([npm](https://www.npmjs.com/package/puid)) - Generate a unique ID depending on time, machine and process for use in a distributed environment.
 - [flake-idgen](https://github.com/T-PWK/flake-idgen) ([npm](https://www.npmjs.com/package/flake-idgen)) - Flake ID generator yields k-ordered, conflict-free ids in a distributed environment.
 - [get-uid](https://github.com/dfcreative/get-uid) ([npm](https://www.npmjs.com/package/get-uid)) - Simple random id generator.
 - [uniqueid](https://github.com/jonschlinkert/uniqueid) ([npm](https://www.npmjs.com/package/uniqueid)) - Generate sequential IDs, with optional prefix or suffix.
@@ -42,7 +42,7 @@ Unique identifiers are used everywhere. This list contains awesome projects you 
 
 ### Python
 
-- [muid](https://github.com/microprediction/muid) - Generates IDs whose hashes are, in part, memorable. See [video explanation](https://vimeo.com/397352413)
+- [muid](https://github.com/microprediction/muid) ([PyPI](https://pypi.org/project/muid/)) - Generates IDs whose hashes are, in part, memorable. See [video explanation](https://vimeo.com/397352413)
 
 ### Go
 
