@@ -42,6 +42,15 @@
       "contributions": [
         "content"
       ]
+    },
+    {
+      "login": "microprediction",
+      "name": "Peter Cotton",
+      "avatar_url": "https://avatars.githubusercontent.com/u/57455669?v=4",
+      "profile": "https://microprediction.medium.com/",
+      "contributions": [
+        "content"
+      ]
     }
   ]
 }
