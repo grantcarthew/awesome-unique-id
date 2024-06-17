@@ -75,6 +75,7 @@ To the extent possible under law, [Grant Carthew](https://github.com/grantcarthe
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/kayomarz"><img src="https://avatars.githubusercontent.com/u/140297?v=4?s=100" width="100px;" alt="Kayomarz"/><br /><sub><b>Kayomarz</b></sub></a><br /><a href="#content-kayomarz" title="Content">🖋</a></td>
       <td align="center" valign="top" width="14.28%"><a href="http://madcity.at"><img src="https://avatars.githubusercontent.com/u/343392?v=4?s=100" width="100px;" alt="Matthias Esterl"/><br /><sub><b>Matthias Esterl</b></sub></a><br /><a href="#content-madc" title="Content">🖋</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://microprediction.medium.com/"><img src="https://avatars.githubusercontent.com/u/57455669?v=4?s=100" width="100px;" alt="Peter Cotton"/><br /><sub><b>Peter Cotton</b></sub></a><br /><a href="#content-microprediction" title="Content">🖋</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/amitlzkpa"><img src="https://avatars.githubusercontent.com/u/15354742?v=4?s=100" width="100px;" alt="Amit Nambiar"/><br /><sub><b>Amit Nambiar</b></sub></a><br /><a href="#content-amitlzkpa" title="Content">🖋</a></td>
     </tr>
   </tbody>
 </table>
