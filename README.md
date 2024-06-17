@@ -13,6 +13,10 @@ Unique identifiers are used everywhere. This list contains awesome projects you 
 
 ## Generation
 
+### Polyglot
+
+- [uuidv7](https://github.com/nalgeon/uuidv7) ([RFC9562 uuidv7 reference](https://www.rfc-editor.org/rfc/rfc9562#name-uuid-version-7)) - UUID 128-bit unique identifier that is time-sortable with 1 ms precision.
+
 ### JavaScript
 
 - [uuid](https://github.com/kelektiv/node-uuid) ([npm](https://www.npmjs.com/package/uuid)) - Simple, fast generation of RFC4122 UUIDS.
