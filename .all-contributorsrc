@@ -18,7 +18,11 @@
       "avatar_url": "https://avatars.githubusercontent.com/u/140297?v=4",
       "profile": "https://github.com/kayomarz",
       "contributions": [
-        "content"
+        "content",
+        "doc",
+        "ideas",
+        "maintenance",
+        "research"
       ]
     }
   ]
