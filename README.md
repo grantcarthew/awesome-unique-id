@@ -8,7 +8,7 @@ Unique identifiers are used everywhere. This list contains awesome projects you 
 
 - [Generation](#generation)
 - [Hash](#hash)
-- [CLI Tools](#CLI-Tools)
+- [CLI Tools](#cli-tools)
 - [Research](#research)
 - [Contributors](#contributors)
 
