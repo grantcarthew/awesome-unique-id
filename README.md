@@ -66,7 +66,7 @@ Unique identifiers are used everywhere. This list contains awesome projects you 
 * Articles/papers
     - [The definitive guide to modulo bias and how to avoid it](https://research.kudelskisecurity.com/2020/07/28/the-definitive-guide-to-modulo-bias-and-how-to-avoid-it) - Generate unbiased random numbers.
     - [Efficiently generating a number in range](https://www.pcg-random.org/posts/bounded-rands.html) - Discusses performance problems in PRNGs and many algorithms.
-    - [Understanding modulo bias](https://julian.bayardo.info/understanding-modulo-bias/)
+    - [Understanding modulo bias](https://web.archive.org/web/20240802033931/https://julian.bayardo.info/understanding-modulo-bias/)
       
 * Collision calculators
   - [Devina.io collision calculator](https://devina.io/collision-calculator)
