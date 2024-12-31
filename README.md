@@ -87,6 +87,7 @@ Unique identifiers are used everywhere. This list contains awesome projects you 
       <td align="center" valign="top" width="14.28%"><a href="https://microprediction.medium.com/"><img src="https://avatars.githubusercontent.com/u/57455669?v=4?s=100" width="100px;" alt="Peter Cotton"/><br /><sub><b>Peter Cotton</b></sub></a><br /><a href="#content-microprediction" title="Content">🖋</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/amitlzkpa"><img src="https://avatars.githubusercontent.com/u/15354742?v=4?s=100" width="100px;" alt="Amit Nambiar"/><br /><sub><b>Amit Nambiar</b></sub></a><br /><a href="#content-amitlzkpa" title="Content">🖋</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/cuongndc"><img src="https://avatars.githubusercontent.com/u/34389409?v=4?s=100" width="100px;" alt="Cuong Nguyen"/><br /><sub><b>Cuong Nguyen</b></sub></a><br /><a href="#content-cuongndc" title="Content">🖋</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/for"><img src="https://avatars.githubusercontent.com/u/7262123?v=4?s=100" width="100px;" alt="J"/><br /><sub><b>J</b></sub></a><br /><a href="#content-for" title="Content">🖋</a></td>
     </tr>
   </tbody>
 </table>
