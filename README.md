@@ -26,7 +26,6 @@ Unique identifiers are used everywhere. This list contains awesome projects you 
 - [crypto-random-string](https://github.com/sindresorhus/crypto-random-string) ([npm](https://www.npmjs.com/package/crypto-random-string)) - Generate a cryptographically strong random string.
 - [yeast](https://github.com/unshiftio/yeast) ([npm](https://www.npmjs.com/package/yeast)) - Yeast is a unique id generator.
 - [shortid](https://github.com/dylang/shortid) ([npm](https://www.npmjs.com/package/shortid)) - Amazingly short non-sequential url-friendly unique id generator.
-- [lodash.uniqueid](https://github.com/lodash/lodash) ([npm](https://www.npmjs.com/package/lodash.uniqueid)) - The lodash method uniqueId exported as a Node.js module.
 - [uniqid](https://github.com/adamhalasz/uniqid) ([npm](https://www.npmjs.com/package/uniqid)) - A Unique Hexatridecimal ID generator.
 - [puid](https://github.com/pid/puid) ([npm](https://www.npmjs.com/package/puid)) - Generate a unique ID depending on time, machine and process for use in a distributed environment.
 - [flake-idgen](https://github.com/T-PWK/flake-idgen) ([npm](https://www.npmjs.com/package/flake-idgen)) - Flake ID generator yields k-ordered, conflict-free ids in a distributed environment.
