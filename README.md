@@ -57,6 +57,11 @@ Unique identifiers are used everywhere. This list contains awesome projects you 
 
 - [RoboHash](https://robohash.org/) ([GitHub](https://github.com/e1ven/Robohash)) - Generate unique images from any text.
 
+## CLI Tools
+
+- [uuinfo](https://github.com/racum/uuinfo) - A tool to debug unique identifiers (UUID, ULID, Snowflake, etc).
+- [OSSP uuid](http://www.ossp.org/pkg/lib/uuid/) - ISO-C API and CLI for generating UUIDs
+
 ## Research
 * Articles/papers
     - [The definitive guide to modulo bias and how to avoid it](https://research.kudelskisecurity.com/2020/07/28/the-definitive-guide-to-modulo-bias-and-how-to-avoid-it) - Generate unbiased random numbers.
