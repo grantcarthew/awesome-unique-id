@@ -74,6 +74,10 @@ Unique identifiers are used everywhere. This list contains awesome projects you 
   - [Nano ID collision calculator (by Alexey Komarov)](https://alex7kom.github.io/nano-nanoid-cc/)
   - [Nano ID collision calculator (by Aleksandr Zhuravlёv)](https://zelark.github.io/nano-id-cc/)
 
+* ID Inspectors & Analyzers
+  - [GUID / UUID Inspector](https://www.guidsgenerator.com/inspect) - Inspect and decode any GUID/UUID in the browser. Reveals version, variant, timestamp, node info, embedded clock/time fields and gives security warnings and notes when needed. Supports UUID v1–v8.
+  - [UUID Decoder](https://www.uuidtools.com/decode) - Embedded in every UUID is information such as the bersion, variant and time the UUID was generated. This tool extracts this information automatically.
+
 ## Contributors
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
