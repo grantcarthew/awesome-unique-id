@@ -20,7 +20,7 @@ Unique identifiers are used everywhere. This list contains awesome projects you 
 
 ### JavaScript
 
-- [uuid](https://github.com/kelektiv/node-uuid) ([npm](https://www.npmjs.com/package/uuid)) - Simple, fast generation of RFC4122 UUIDS.
+- [uuid](https://github.com/uuidjs/node-uuid) ([npm](https://www.npmjs.com/package/uuid)) - Simple, fast generation of RFC4122 UUIDS.
 - [ulid](https://github.com/ulid) ([npm](https://www.npmjs.com/package/ulid)) - Universally Unique Lexicographically Sortable Identifier.
 - [cuid2](https://github.com/paralleldrive/cuid2) ([npm](https://www.npmjs.com/package/@paralleldrive/cuid2)) - Secure, collision-resistant ids optimized for horizontal scaling and performance. Next generation uuids.
 - [nanoid](https://github.com/ai/nanoid) ([npm](https://www.npmjs.com/package/nanoid)) - A tiny, secure URL-friendly unique string ID generator for JavaScript.
@@ -45,7 +45,7 @@ Unique identifiers are used everywhere. This list contains awesome projects you 
 
 ### Python
 
-- [muid](https://github.com/microprediction/muid) ([PyPI](https://pypi.org/project/muid/)) - Generates IDs whose hashes are, in part, memorable. See [video explanation](https://vimeo.com/397352413)
+- [muid](https://github.com/microprediction/muid) ([PyPI](https://pypi.org/project/muid/)) - Generates IDs whose hashes are, in part, memorable.
 
 ### Go
 
@@ -63,16 +63,16 @@ Unique identifiers are used everywhere. This list contains awesome projects you 
 - [OSSP uuid](http://www.ossp.org/pkg/lib/uuid/) - ISO-C API and CLI for generating UUIDs
 
 ## Research
-* Articles/papers
-    - [The definitive guide to modulo bias and how to avoid it](https://research.kudelskisecurity.com/2020/07/28/the-definitive-guide-to-modulo-bias-and-how-to-avoid-it) - Generate unbiased random numbers.
+- Articles/papers
+    - [The definitive guide to modulo bias and how to avoid it](https://web.archive.org/web/20260226080934/https://research.kudelskisecurity.com/2020/07/28/the-definitive-guide-to-modulo-bias-and-how-to-avoid-it) (archive) - Generate unbiased random numbers.
     - [Efficiently generating a number in range](https://www.pcg-random.org/posts/bounded-rands.html) - Discusses performance problems in PRNGs and many algorithms.
     - [Understanding modulo bias](https://web.archive.org/web/20240802033931/https://julian.bayardo.info/understanding-modulo-bias/) (archive)
     - [Choose your database identifiers wisely](https://racum.blog/articles/identifiers/) - A comprehensive article explaining types and implementations of identifiers.
-      
-* Collision calculators
-  - [Devina.io collision calculator](https://devina.io/collision-calculator)
-  - [Nano ID collision calculator (by Alexey Komarov)](https://alex7kom.github.io/nano-nanoid-cc/)
-  - [Nano ID collision calculator (by Aleksandr Zhuravlёv)](https://zelark.github.io/nano-id-cc/)
+
+- Collision calculators
+    - [Devina.io collision calculator](https://devina.io/collision-calculator)
+    - [Nano ID collision calculator (by Alexey Komarov)](https://alex7kom.github.io/nano-nanoid-cc/)
+    - [Nano ID collision calculator (by Aleksandr Zhuravlёv)](https://zelark.github.io/nano-id-cc/)
 
 ## Contributors
 
